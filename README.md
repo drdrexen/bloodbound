@@ -45,7 +45,8 @@ BloodBound aims to address the logistical challenges faced by traditional blood 
 - **Appointment Reminders:** Sends reminders to donors about their upcoming appointments.
 - **Donation History Tracking:** Keeps track of donation history for both donors and recipients.
 
-## System Requirements
+## System Requirements:
+Compatible for mac , windows and linux
 
 ### Software Specifications
 
