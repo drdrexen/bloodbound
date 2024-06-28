@@ -47,7 +47,7 @@ BloodBound aims to address the logistical challenges faced by traditional blood 
 
 ## System Requirements:
 Compatible for mac , windows and linux
-
+preferred 8GB RAM
 ### Software Specifications
 
 - **Frontend:** C++ with the Qt framework
